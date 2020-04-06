@@ -14,3 +14,6 @@
 - Udp Scan
 - Counts Opened Ports And Closed Ports.
 - Easy to use 
+
+# Credits:
+Credits Belong to me (Bowlingtoolkit or REVENGE)
