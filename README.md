@@ -6,7 +6,7 @@
 
 
 # Scan Types:
-- Range (You can set range that will scan all ports from start to end of it .) e.x: 20, 80
+- Range (You can set range that will scan all ports from start to end from it .) e.x: 20, 80
 - Specific (You set one port to scan .)
 
 # Features:
